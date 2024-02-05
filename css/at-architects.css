@@ -141,6 +141,17 @@ main{
     justify-content: space-around;
 }
 
+/* Footer Styles */
+footer{
+    text-align: center;
+    background-color: rgb(255, 144, 14, 0.10);
+    width: 80%;
+    margin: 0 auto 50px;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+
 /* Media Queries for Mobile Phone */
 @media screen and (max-width: 576px) {
     header{
