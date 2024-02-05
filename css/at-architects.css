@@ -131,6 +131,15 @@ main{
     margin: 0;
 }
 
+/* Sponsors Styles */
+.sponsors{
+    margin: 100px 0;
+    text-align: center;
+}
+.sponsors-container{
+    display: flex;
+    justify-content: space-around;
+}
 
 /* Media Queries for Mobile Phone */
 @media screen and (max-width: 576px) {
